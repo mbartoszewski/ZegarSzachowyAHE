@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChessTimer</string>
+    <string name="set_timer">Set timer</string>
+    <string name="reset_timer">Reset timer</string>
+    <string name="default_timer" translatable="false">00:00:00</string>
+    <string name="set_timer_dialog" translatable="false">Ok</string>
+    <string name="set_timer_hint_dialog">Enter time in minutes (1 hour = 60 minutes).</string>
+    <string name="cancel_timer_dialog">Cancel</string>
+    <string name="winner">Winner</string>
+    <string name="loser">Loser</string>
+</resources>
